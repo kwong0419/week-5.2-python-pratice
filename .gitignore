@@ -2,3 +2,4 @@ venv/
 .flaskenv
 .env
 .DS_Store
+expense-tracking-system-assignment.md
