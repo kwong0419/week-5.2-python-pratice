@@ -27,7 +27,8 @@ This project is a high priority for the finance department, and your expertise i
 ## Requirements
 
 ### 1. Data Handling
-- Read transaction data from a CSV file named 'monthly_company_card_transactions.csv'
+- Read transaction data from a CSV file named `monthly_company_card_transactions.csv`, located in the `data` directory
+- The data has already been pulled and compiled into this CSV file for your use
 - CSV columns should include: Date, Description, Amount, Category
 - Parse dates and handle numerical data appropriately
 
