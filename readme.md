@@ -15,10 +15,9 @@ Your assignment is to create a Python-based application that will:
 This tool is crucial for maintaining financial discipline, identifying spending patterns, and making informed budgetary decisions across the company. Your work will directly impact our organization's financial health and decision-making processes.
 
 ## Key Objectives
-- Develop a solution that can handle multiple users and varying budget amounts
-- Ensure the system is user-friendly, requiring minimal manual input from managers
-- Implement strong security measures to protect sensitive financial data
+- Develop a solution that can handle varying budget amounts
 - Create clear, insightful reports that aid in quick decision-making
+- Send the report to the specified email addresses
 
 Please refer to the detailed requirements below for specific functionalities and technical specifications. The deadline for the initial prototype is [Insert Date], with a company-wide rollout planned for [Insert Date].
 
