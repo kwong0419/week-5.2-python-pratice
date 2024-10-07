@@ -19,7 +19,7 @@ This tool is crucial for maintaining financial discipline, identifying spending 
 - Create clear, insightful reports that aid in quick decision-making
 - Send the report to the specified email addresses
 
-Please refer to the detailed requirements below for specific functionalities and technical specifications. The deadline for the initial prototype is [Insert Date], with a company-wide rollout planned for [Insert Date].
+Please refer to the detailed requirements below for specific functionalities and technical specifications.
 
 This project is a high priority for the finance department, and your expertise is crucial to its success. Regular progress updates will be expected, and don't hesitate to reach out if you need any clarifications or resources.
 
