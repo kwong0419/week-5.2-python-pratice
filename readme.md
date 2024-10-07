@@ -55,7 +55,7 @@ This project is a high priority for the finance department, and your expertise i
 - Compose an email with the text report in the body
 - Attach the pie chart image to the email
 - Send the email to a specified address
-- Here is an example of the email that should be sent:[Email Example](https://docs.google.com/document/d/1zUhVct8X1a50geiWzHcbE8OeHhVtSKvN2PFU_VcUkhI/edit?usp=sharing)
+- Here is an example of the email that should be sent: [LINK](https://docs.google.com/document/d/1zUhVct8X1a50geiWzHcbE8OeHhVtSKvN2PFU_VcUkhI/edit?usp=sharing)
 
 ### 6. Security
 - Use environment variables or a secure method to store email credentials
