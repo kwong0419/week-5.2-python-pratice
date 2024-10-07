@@ -21,7 +21,7 @@ This tool is crucial for maintaining financial discipline, identifying spending 
 
 Please refer to the detailed requirements below for specific functionalities and technical specifications.
 
-This project is a high priority for the finance department, and your expertise is crucial to its success. Regular progress updates will be expected, and don't hesitate to reach out if you need any clarifications or resources.
+This project is a high priority for the finance department, and your expertise is crucial to its success. Don't hesitate to reach out if you need any clarifications or resources.
 
 ## Requirements
 
