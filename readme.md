@@ -73,7 +73,7 @@ This project is a high priority for the finance department, and your expertise i
     - create_pie_chart()
     - create_text_report()
     - send_email()
-    
+
 ## Project Resources
 1. Pandas documentation: https://pandas.pydata.org/docs/
 2. Matplotlib tutorials: https://matplotlib.org/stable/tutorials/index.html
@@ -86,4 +86,4 @@ This project is a high priority for the finance department, and your expertise i
 ## Deliverables
 1. Python script that accomplishes all the above requirements
 
-Good luck, and don't hesitate to ask for clarification on any part of the project!
+Good luck, and don't hesitate to ask for clarification on any part of the assignment!
