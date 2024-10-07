@@ -68,7 +68,7 @@ This project is a high priority for the finance department, and your expertise i
 4. Consider using `datetime` for handling dates
 5. Store the pie chart in memory using `BytesIO` before attaching to the email
 
-## Learning Resources
+## Project Resources
 1. Pandas documentation: https://pandas.pydata.org/docs/
 2. Matplotlib tutorials: https://matplotlib.org/stable/tutorials/index.html
 3. Python's email modules: https://docs.python.org/3/library/email.html
@@ -76,15 +76,8 @@ This project is a high priority for the finance department, and your expertise i
 5. Real Python's guide on sending emails: https://realpython.com/python-send-email/
 6. Tutorial on working with CSV files in Python: https://realpython.com/python-csv/
 
-## Bonus Challenges
-- Implement error handling and logging
-- Add command-line arguments to specify the input file and output email address
-- Create a config file for easily adjustable settings (budget amount, email addresses, etc.)
-- Generate additional visualizations (e.g., a bar chart of spending over time)
 
 ## Deliverables
 1. Python script that accomplishes all the above requirements
-2. A brief README explaining how to set up and run the script
-3. Any necessary requirements file (e.g., requirements.txt)
 
 Good luck, and don't hesitate to ask for clarification on any part of the project!
