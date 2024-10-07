@@ -68,11 +68,11 @@ This project is a high priority for the finance department, and your expertise i
 4. Consider using `datetime` for handling dates
 5. Store the pie chart in memory using `BytesIO` before attaching to the email
 6. Break your work into functions that can be reused and tested independently. Potential functions to create:
-  - load_data
-  - calculate_budget_summary
-  - create_pie_chart
-  - create_text_report
-  - send_email
+    - load_data
+    - calculate_budget_summary
+    - create_pie_chart
+    - create_text_report
+    - send_email
 ## Project Resources
 1. Pandas documentation: https://pandas.pydata.org/docs/
 2. Matplotlib tutorials: https://matplotlib.org/stable/tutorials/index.html
