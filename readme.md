@@ -42,7 +42,7 @@ This project is a high priority for the finance department, and your expertise i
 - Save the chart as an image file
 
 ### 4. Reporting
-- Generate a text report including:
+- Generate and format a text report including: (text formatting)
   - Reporting period
   - Total spent vs. budget
   - Remaining budget
@@ -53,8 +53,8 @@ This project is a high priority for the finance department, and your expertise i
 
 ### 5. Email Functionality
 - Compose an email with the text report in the body
-- Attach the pie chart image to the email
-- Send the email to a specified address
+- Attach the pie chart image to the email 
+- Send the email to a specified address (for this test functionality you will need to email addresses so that you can send an email from yourself, to yourself OR borrow one from a colleague)
 - Here is an example of the email that should be sent: [LINK](https://docs.google.com/document/d/1zUhVct8X1a50geiWzHcbE8OeHhVtSKvN2PFU_VcUkhI/edit?usp=sharing)
 
 ### 6. Security
