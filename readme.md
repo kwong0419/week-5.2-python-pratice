@@ -87,3 +87,8 @@ This project is a high priority for the finance department, and your expertise i
 1. Python script that accomplishes all the above requirements
 
 Good luck, and don't hesitate to ask for clarification on any part of the assignment!
+
+
+## Environment Setup
+
+If you don't remember how to setup your Virtual Workspace you can refer to the [Python Workspace Setup](https://github.com/jdrichards-pursuit/python-virtual-environment-setup)
